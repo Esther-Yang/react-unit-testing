@@ -1,4 +1,4 @@
-# Unit Testing for React
+# Testing for React
 
 A repo to record how to write tests for React App.
 
