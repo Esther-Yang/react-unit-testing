@@ -6,18 +6,18 @@ A repo to record how to write tests for React App.
 
 ## Jest
 
-- tool for running tests and asserting results
-- not React specific
+- tool for running tests and asserting results.
+- not React specific.
 - already installed with `create-react-app`.
-- [documentation](https://jestjs.io/)
+- [documentation](https://jestjs.io/).
 
 ## React Testing Library
 
-- tool for rendering
+- tool for rendering.
 - already installed with `create-react-app`.
-- [documentation](https://testing-library.com/docs/react-testing-library/intro/)
+- [documentation](https://testing-library.com/docs/react-testing-library/intro/).
 
-# Syntax
+# Notes
 
 ### File extenstion
 
