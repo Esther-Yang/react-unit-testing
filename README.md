@@ -19,7 +19,7 @@ A repo to record how to write tests for React App.
 
 # Notes
 
-### File extenstion
+### File extension
 
 Convention to name the file same as the component.
 
@@ -49,7 +49,7 @@ describe('Some Component',()=>{
 })
 ```
 
-#### 1. Arrange
+### 1. Arrange
 
 - Mock function
 
